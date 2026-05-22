@@ -1,0 +1,8 @@
+# 只推送 index.html 到 GitHub，其余全部排除
+*.py
+*.bat
+*.xlsx
+*.json
+__pycache__/
+*.pyc
+*.log
